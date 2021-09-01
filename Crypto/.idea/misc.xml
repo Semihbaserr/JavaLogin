@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lenova/AndroidStudioProjects/Crypto/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/lenova/AndroidStudioProjects/Crypto/app/src/main/res/drawable/backgroundblack.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/lenova/AndroidStudioProjects/Crypto/app/src/main/res/drawable/backgroundblue.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/lenova/AndroidStudioProjects/Crypto/app/src/main/res/drawable/backgroundgreen.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/lenova/AndroidStudioProjects/Crypto/app/src/main/res/drawable/backgroundpink.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/lenova/AndroidStudioProjects/Crypto/app/src/main/res/drawable/black_add.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/lenova/AndroidStudioProjects/Crypto/app/src/main/res/drawable/border_delete.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/lenova/AndroidStudioProjects/Crypto/app/src/main/res/drawable/gradient.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/lenova/AndroidStudioProjects/Crypto/app/src/main/res/drawable/ic_account_user.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/lenova/AndroidStudioProjects/Crypto/app/src/main/res/drawable/ic_coast.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/lenova/AndroidStudioProjects/Crypto/app/src/main/res/drawable/ic_delete.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/lenova/AndroidStudioProjects/Crypto/app/src/main/res/drawable/ic_forum_black_24dp.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/lenova/AndroidStudioProjects/Crypto/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/lenova/AndroidStudioProjects/Crypto/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/lenova/AndroidStudioProjects/Crypto/app/src/main/res/drawable/ic_lock_open.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/lenova/AndroidStudioProjects/Crypto/app/src/main/res/drawable/ic_menu_blue.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/lenova/AndroidStudioProjects/Crypto/app/src/main/res/drawable/ic_password.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/lenova/AndroidStudioProjects/Crypto/app/src/main/res/drawable/ic_vpn_key_black_24dp.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/lenova/AndroidStudioProjects/Crypto/app/src/main/res/drawable/icon.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/lenova/AndroidStudioProjects/Crypto/app/src/main/res/drawable/login_background.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/lenova/AndroidStudioProjects/Crypto/app/src/main/res/drawable/login_foreground.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/lenova/AndroidStudioProjects/Crypto/app/src/main/res/drawable/replace_black.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/lenova/AndroidStudioProjects/Crypto/app/src/main/res/layout/activity_dashboard.xml" value="0.2046875" />
+        <entry key="..\:/Users/lenova/AndroidStudioProjects/Crypto/app/src/main/res/layout/activity_login.xml" value="0.2046875" />
+        <entry key="..\:/Users/lenova/AndroidStudioProjects/Crypto/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/lenova/AndroidStudioProjects/Crypto/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Users/lenova/AndroidStudioProjects/Crypto/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/Users/lenova/AndroidStudioProjects/Crypto/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/lenova/AndroidStudioProjects/Crypto/app/src/main/res/mipmap-anydpi-v26/login.xml" value="0.11302083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

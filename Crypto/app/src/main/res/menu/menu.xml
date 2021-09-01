@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Menu"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_menu_blue">
+
+        <menu>
+            <item
+                android:id="@+id/logoutMenu"
+                android:orderInCategory="300"
+                android:title="Logout"
+                android:icon="@drawable/ic_lock_open"
+                app:showAsAction="collapseActionView">
+
+            </item>
+        </menu>
+    </item>
+</menu>

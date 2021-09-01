@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "678999623378",
+    "project_id": "crypto-2da8b",
+    "storage_bucket": "crypto-2da8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678999623378:android:612dfd8359879408670f0b",
+        "android_client_info": {
+          "package_name": "com.semihbaser.crypto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678999623378-bb5f81c26p7m9ogqll4mhcjr9nk9pu4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQHvCbJX-GJ1az9HCny2rTO8vt6Dq8ozw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678999623378-bb5f81c26p7m9ogqll4mhcjr9nk9pu4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
